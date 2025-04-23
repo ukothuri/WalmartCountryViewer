@@ -66,10 +66,7 @@ com.walmart.countryviewer
 
 ## 🖼️ Screenshots
 
-| Loading State         | Country List           |
-|------------------------|------------------------|
-| ![Loading](screenshots/loading.png) | ![List](screenshots/list.png) |
-
+![img.png](img.png)
 ---
 
 ## 📝 Future Improvements
